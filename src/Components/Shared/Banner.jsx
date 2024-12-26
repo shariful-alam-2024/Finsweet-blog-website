@@ -19,6 +19,12 @@ const Banner = () => {
             Welcome to our CHURCH
           </h2>
           <br />
+          <h2
+           
+            className="text-lg sm:text-xl md:text-2xl lg:text-3xl"
+          >
+            Welcome to our CHURCH
+          </h2>
           <h1
             
             className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl"
