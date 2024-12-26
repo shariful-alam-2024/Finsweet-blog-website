@@ -11,6 +11,10 @@ const Benefits = () => {
              THE benefits of
              <br /> joining our church
            </h1>
+           <h1 className="text-2xl sm:text-3xl font-bold mt-2">
+             THE benefits of
+             <br /> joining our church
+           </h1>
            <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-6">
              {myLove.map((item, id) => (
                <motion.div
